@@ -22,7 +22,7 @@ Here are the original wallpapers used, and the credits for their respective phot
 - [silhouette of rocky mountain under starry sky](https://unsplash.com/photos/silhouette-of-rocky-mountain-under-starry-sky-7rlIPXTR6OI) by [John Towner](https://unsplash.com/@heytowner)
 
 ## Styles
-- Original
-- Dramatic
-- Black and White
-- Themed (Colored)
+- Original - This various is just the images cropped to fit the most common resolutions.
+- Dramatic - A little bit of desaturation in the color and some minor editing to make the images "pop" a bit.
+- Black and White - Basically dramatic pack, but in black and white.
+- Themed (Colored) - Dramatic, but with various color shifts to meet specific colors. In this case, green, red, yellow, blue, pink, and purple.
